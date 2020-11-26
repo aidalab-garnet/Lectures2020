@@ -5,5 +5,5 @@
 
 # 강의 내용
 
-* python 기초: <a href="https://colab.research.google.com/drive/17SKF_OL8bJmkTcvFhnyf1_i0ykBXJxA-">101_python_practice.ipynb</a>
-* numpy 기초: <a href="https://colab.research.google.com/drive/1MUvLJKTxJ2D43Zjh8-9-Xh7NCjnQgIjC?usp=sharing">102_numpy.ipynb</a>
+* 1일차 : <a href="https://drive.google.com/file/d/1IbD8DYH-jAaWaQYfkUGGWPqH4hV1Qw7L/view?usp=sharing">Keras를 이용한 간단한 DNN 구현 ( 101_dnn_in_keras_shortly.ipynb )</a>
+* 2일차 : <a href="">---</a>
