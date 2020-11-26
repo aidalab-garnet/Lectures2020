@@ -5,4 +5,4 @@
 
 # 강의 내용
 
-* 파이썬 기초: <a href="https://colab.research.google.com/github/aidalab-garnet/udream2020-2/blob/main/101_python_practice.ipynb">101_python_practice.ipynb</a>
+* 파이썬 기초: <a href="https://colab.research.google.com/drive/17SKF_OL8bJmkTcvFhnyf1_i0ykBXJxA-">101_python_practice.ipynb</a>
