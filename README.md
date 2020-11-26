@@ -5,4 +5,4 @@
 
 # 강의 내용
 
-* 파이썬 기초: 101_python.ipynb
+* 파이썬 기초: <a href="">101_python.ipynb</a>
