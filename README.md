@@ -5,4 +5,5 @@
 
 # 강의 내용
 
-* 파이썬 기초: <a href="https://colab.research.google.com/drive/17SKF_OL8bJmkTcvFhnyf1_i0ykBXJxA-">101_python_practice.ipynb</a>
+* python 기초: <a href="https://colab.research.google.com/drive/17SKF_OL8bJmkTcvFhnyf1_i0ykBXJxA-">101_python_practice.ipynb</a>
+* numpy 기초: <a href="https://colab.research.google.com/drive/1MUvLJKTxJ2D43Zjh8-9-Xh7NCjnQgIjC?usp=sharing">102_numpy.ipynb</a>
