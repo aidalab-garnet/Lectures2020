@@ -17,7 +17,7 @@
 # 강의 내용
 
 * 1일차 : 
-  * <a href="https://drive.google.com/file/d/1T-9v0n-jJMxpoY4DHLl-HNyeDNN0RBss/view?usp=sharing">강의 발표자료</>
+  * <a href="https://drive.google.com/file/d/1T-9v0n-jJMxpoY4DHLl-HNyeDNN0RBss/view?usp=sharing">강의 발표자료</a>
   * <a href="https://colab.research.google.com/drive/17SKF_OL8bJmkTcvFhnyf1_i0ykBXJxA-?usp=sharing">[Colab] 파이썬 기초 ( 101_python.ipynb )</a>
   * <a href="https://colab.research.google.com/drive/1MUvLJKTxJ2D43Zjh8-9-Xh7NCjnQgIjC?usp=sharing">[Colab] Numpy 기초 ( 102_numpy.ipynb )</a>
   * <a href="https://colab.research.google.com/drive/1NMezyhBvKs2gqDjPWawqnFCpsxtC_GPl?usp=sharing">[Colab] Pandas 기초 ( 103_pandas.ipynb )</a>
