@@ -5,5 +5,6 @@
 
 # 강의 내용
 
-* 1일차 : <a href="https://colab.research.google.com/drive/1uilpfp6qPbLobkuw3OGh8I0SrxThYhw_?usp=sharing">Keras를 이용한 간단한 DNN 구현 ( 101_dnn_in_keras.ipynb )</a>
+* 1일차 : 
+    * <a href="https://colab.research.google.com/drive/1uilpfp6qPbLobkuw3OGh8I0SrxThYhw_?usp=sharing">Keras를 이용한 간단한 DNN 구현 ( 101_dnn_in_keras.ipynb )</a>
 * 2일차 : <a href="">---</a>
