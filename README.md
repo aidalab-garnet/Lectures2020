@@ -17,13 +17,14 @@
 # 강의 내용
 
 * 1일차 : 
-   * <a href="https://colab.research.google.com/drive/17SKF_OL8bJmkTcvFhnyf1_i0ykBXJxA-?usp=sharing">[Colab] 파이썬 기초 ( 101_python.ipynb )</a>
-   * <a href="https://colab.research.google.com/drive/1MUvLJKTxJ2D43Zjh8-9-Xh7NCjnQgIjC?usp=sharing">[Colab] Numpy 기초 ( 102_numpy.ipynb )</a>
-   * <a href="https://colab.research.google.com/drive/1NMezyhBvKs2gqDjPWawqnFCpsxtC_GPl?usp=sharing">[Colab] Pandas 기초 ( 103_pandas.ipynb )</a>
-   * <a href="https://colab.research.google.com/drive/1-4xcQWJ0z5_skW6p6_qJTOKwmH0DvhgT?usp=sharing">[Colab] Matplotlib 기초 ( 104_matplotlib.ipynb )</a>
-   * <a href="https://colab.research.google.com/drive/1uilpfp6qPbLobkuw3OGh8I0SrxThYhw_?usp=sharing">[Colab] Keras를 이용한 간단한 DNN 구현 ( 105_dnn_in_keras.ipynb )</a>
+  * <a href="https://drive.google.com/file/d/1T-9v0n-jJMxpoY4DHLl-HNyeDNN0RBss/view?usp=sharing">강의 발표자료</>
+  * <a href="https://colab.research.google.com/drive/17SKF_OL8bJmkTcvFhnyf1_i0ykBXJxA-?usp=sharing">[Colab] 파이썬 기초 ( 101_python.ipynb )</a>
+  * <a href="https://colab.research.google.com/drive/1MUvLJKTxJ2D43Zjh8-9-Xh7NCjnQgIjC?usp=sharing">[Colab] Numpy 기초 ( 102_numpy.ipynb )</a>
+  * <a href="https://colab.research.google.com/drive/1NMezyhBvKs2gqDjPWawqnFCpsxtC_GPl?usp=sharing">[Colab] Pandas 기초 ( 103_pandas.ipynb )</a>
+  * <a href="https://colab.research.google.com/drive/1-4xcQWJ0z5_skW6p6_qJTOKwmH0DvhgT?usp=sharing">[Colab] Matplotlib 기초 ( 104_matplotlib.ipynb )</a>
+  * <a href="https://colab.research.google.com/drive/1uilpfp6qPbLobkuw3OGh8I0SrxThYhw_?usp=sharing">[Colab] Keras를 이용한 간단한 DNN 구현 ( 105_dnn_in_keras.ipynb )</a>
    
-* 2일차 : <a href="">---</a>
+* 2일차 : <a href="">( 대기중 )</a>
 
 
 # 실습 파일 원본 위치
