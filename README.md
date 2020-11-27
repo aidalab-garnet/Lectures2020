@@ -24,8 +24,15 @@
   * <a href="https://colab.research.google.com/drive/1-4xcQWJ0z5_skW6p6_qJTOKwmH0DvhgT?usp=sharing">[Colab] Matplotlib 기초 ( 104_matplotlib.ipynb )</a>
   * <a href="https://colab.research.google.com/drive/1uilpfp6qPbLobkuw3OGh8I0SrxThYhw_?usp=sharing">[Colab] Keras를 이용한 간단한 DNN 구현 ( 105_dnn_in_keras.ipynb )</a>
    
-* 2일차 : <a href="#">( 대기중 )</a>
-
+* 2일차 :
+  * <a href="https://drive.google.com/file/d/1qk5EuojMmpdnNe1ahlPHZYzUItr76VeY/view?usp=sharing">강의 발표자료</a>
+  * <a href="https://colab.research.google.com/drive/16VF4SVvEOKo5zo72JdzaFH1x4KeTfIkw?usp=sharing">[Colab] DNN Iris Classification ( 201_dnn_iris_classification.ipynb )</a>
+  * <a href="https://colab.research.google.com/drive/1XgRDgzQoZIe1FSQ-PEqdG8vNKDffZPLu?usp=sharing">[Colab] DNN MNIST Classification ( 202_dnn_mnist.ipynb )</a>
+  * <a href="https://colab.research.google.com/drive/10HQyr8_Txf6tbqdzl-uIreoL9y1tx6Bh?usp=sharing">[Colab] CNN 실습 ( 203_iris_cnn.ipynb )</a>
+  * <a href="https://colab.research.google.com/drive/1V_1aGIiNXscVWRO2YS9pL5rkoeOGkzec?usp=sharing">[Colab] YOLO 실습 ( 204_yolo.ipynb )</a>
+  * <a href="https://colab.research.google.com/drive/1IcdNb8ttx3E72V4K4fQpk3n_YIKrt-p4?usp=sharing">[Colab] WGAN 실습 ( 205_wgan.ipynb )</a>
+  * <a href="https://colab.research.google.com/drive/1IcdNb8ttx3E72V4K4fQpk3n_YIKrt-p4?usp=sharing">[Colab] Auto Encoder 실습 ( 206_autoencoder.ipynb )</a>
+  * <a href="https://colab.research.google.com/drive/1IcdNb8ttx3E72V4K4fQpk3n_YIKrt-p4?usp=sharing">[Colab] MNIST RNN 실습 ( 207_mnist_rnn.ipynb )</a>
 
 # 실습 파일 원본 위치
 
