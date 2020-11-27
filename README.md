@@ -24,7 +24,7 @@
   * <a href="https://colab.research.google.com/drive/1-4xcQWJ0z5_skW6p6_qJTOKwmH0DvhgT?usp=sharing">[Colab] Matplotlib 기초 ( 104_matplotlib.ipynb )</a>
   * <a href="https://colab.research.google.com/drive/1uilpfp6qPbLobkuw3OGh8I0SrxThYhw_?usp=sharing">[Colab] Keras를 이용한 간단한 DNN 구현 ( 105_dnn_in_keras.ipynb )</a>
    
-* 2일차 : <a href="">( 대기중 )</a>
+* 2일차 : <a href="#">( 대기중 )</a>
 
 
 # 실습 파일 원본 위치
