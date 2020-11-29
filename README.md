@@ -1,4 +1,4 @@
-<span style="color:red"># Lectures 2020</span>
+# <span style="color:red">Lectures 2020</span>
 
 ## 2020 경기 꿈의대학 2학기 강의: 수식없이 배우는 인공지능과 딥러닝
 ### 강의 목표
